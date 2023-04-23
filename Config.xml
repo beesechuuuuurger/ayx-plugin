@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlteryxJavaScriptPlugin>
+    <Properties>
+        <MetaInfo>
+            <Name>GPT</Name>
+            <RootToolName>GPT</RootToolName>
+            <Description>Classify input column values using ChatGPT in Alteryx</Description>
+            <ToolVersion>1</ToolVersion>
+            <DcmNamespace/>
+            <CategoryName>Laboratory</CategoryName>
+            <SearchTags>ChatGPT, classification, attributes</SearchTags>
+            <Author>Gavin Volpe</Author>
+            <Company>Evolve Cloud Services</Company>
+            <Copyright>2023</Copyright>
+        </MetaInfo>
+    </Properties>
+</AlteryxJavaScriptPlugin>
